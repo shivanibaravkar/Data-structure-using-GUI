@@ -36,8 +36,7 @@ The project covers **Array, Stack, Queue, Linked List, Binary Search, and Sortin
 
 ## 📸 Screenshots
 
-![Homepage Preview]([🌐 Live Preview](https://yourusername.github.io/DSALGO-VISUALIZER-main/)
-)
+![Homepage Preview](file:///C:/Users/admin/Desktop/project/ds2%20(2)/ds2%20(2)/ds2/DSALGO-VISUALIZER-main/index.html)
 
 ---
 
