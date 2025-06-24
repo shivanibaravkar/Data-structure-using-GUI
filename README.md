@@ -37,22 +37,22 @@ The project covers **Array, Stack, Queue, Linked List, Binary Search, and Sortin
 ## 📸 Screenshots
 
 ### 🏠 Homepage Preview
-![Homepage](sccreenshots/Screenshot%20(1343).png)
+![Homepage](screenshots/Screenshot%20(1343).png)
 
 ### 📦 Stack Visualization
-![Stack](sccreenshots/Screenshot%20(1344).png)
+![Stack](screenshots/Screenshot%20(1344).png)
 
 ### 📦 Queue Visualization
-![Queue](sccreenshots/Screenshot%20(1345).png)
+![Queue](screenshots/Screenshot%20(1345).png)
 
 ### 🔍 Binary Search
-![Binary Search](sccreenshots/Screenshot%20(1346).png)
+![Binary Search](screenshots/Screenshot%20(1346).png)
 
 ### 🧠 Linked List
-![Linked List](sccreenshots/Screenshot%20(1347).png)
+![Linked List](screenshots/Screenshot%20(1347).png)
 
 ### 🔄 Sorting Algorithms
-![Sorting](sccreenshots/Screenshot%20(1348).png)
+![Sorting](screenshots/Screenshot%20(1348).png)
 
 
 
